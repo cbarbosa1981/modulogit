@@ -1,3 +1,1 @@
-Meu primeito sistema no git
-
-Alteração do Commit para melhorar o sistema 
+Alterando o COMMIT
