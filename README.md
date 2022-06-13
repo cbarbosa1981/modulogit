@@ -1,1 +1,1 @@
-Aleterar arquivo dps de desisntalar
+Sistema de alteração em VDI e CNX
